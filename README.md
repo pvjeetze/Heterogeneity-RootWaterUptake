@@ -1,4 +1,4 @@
-# MATLAB code for modelling root water uptake in heterogeneous soil
+# MATLAB code for modelling root water uptake in two-dimensional heterogeneous soil domain 
 
 This script includes model code of the following article:
 
